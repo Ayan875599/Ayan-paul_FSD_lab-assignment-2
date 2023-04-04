@@ -30,7 +30,7 @@ public class PayMoneyTransactions {
                 j++;
             }
             if (j == n) {
-                System.out.println("Given Target not achieved");
+                System.out.println("Given Target is not achieved");
             }
         }
         
